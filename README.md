@@ -9,69 +9,68 @@ Explore how various prompting techniques can be used to generate and manipulate 
 ## Procedure:
 :Familiarize Yourself with Video Generation Models: Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include: Runway Gen-2 Synthesia Pictory DeepBrain Understand the capabilities and limitations of each tool before starting the experiment. Create Simple Prompts for Video Generation: Start with simple prompts to generate short videos. These prompts should describe the general subject or activity. Example prompt: "A person walking in a park." Experiment with More Detailed Prompts: Gradually refine your prompts by adding specific details, such as the setting, lighting, actions, or expressions. Example prompt: "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them." Add Time and Motion Elements: Incorporate aspects like timing, transitions, or camera movement in your prompts. Example prompt: "A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky." Test Different Video Styles: Experiment with different styles of video generation, such as animations, live-action, cinematic, or artistic. Example prompt: "An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people." Iterate and Adjust Prompts: Evaluate the generated video and refine the prompt if needed. Consider aspects like the pacing, transitions, and consistency of motion in the video. Example: After reviewing, refine the prompt to add more details about the camera angles or actions: "A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene." Generate Multiple Versions: Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt. Save and Compare Outputs: Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
-## Algorithm / Steps:
+## Algorithm: 
+Exploration of Prompting Techniques for Video Generation
 
-Familiarize Yourself with Video Generation Models:
+Start the Experiment.
 
-Begin by exploring AI tools capable of generating videos from text prompts.
+Select a Video Generation Platform:
 
-Popular models include:
+Choose an AI tool like Runway Gen-2, Synthesia, Pictory, or DeepBrain for generating videos from text prompts.
 
-Runway Gen-2
+Understand Model Capabilities:
 
-Synthesia
+Study the tool’s input format, supported video duration, and visual styles.
 
-Pictory
+Create a Basic Prompt:
 
-DeepBrain
+Write a short and simple text prompt.
 
-Study the capabilities, input requirements, and limitations of each tool before starting the experiment.
+Example: “A cat sitting on a windowsill.”
 
-## Create Simple Prompts for Video Generation:
+Generate Video from Basic Prompt:
 
-Start with short, clear prompts that describe a general subject or activity.
+Input the prompt into the chosen AI tool and generate the video.
 
-# Example:
-“A person walking in a park.”
+Observe the motion, clarity, and background details.
 
-Experiment with More Detailed Prompts:
+Enhance the Prompt with Descriptive Details:
 
-Add descriptive elements like setting, lighting, actions, or emotions.
+Add elements such as lighting, mood, color, and environment.
 
-# Example:
-“A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them.”
+Example: “A cat sitting on a windowsill during sunset, watching birds outside.”
 
-Add Time and Motion Elements:
+Include Camera and Timing Effects:
 
-Include aspects such as timing, transitions, and camera movement.
+Add transitions or motion aspects.
 
-# Example:
-“A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky.”
+Example: “A slow zoom toward a cat sitting on a windowsill as the sunset light changes.”
 
-Test Different Video Styles:
+Experiment with Multiple Styles:
 
-Try generating videos in various styles like animation, cinematic, artistic, or realistic.
+Try prompts in different visual styles — realistic, animated, cinematic, or artistic.
 
-# Example:
-“An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people.”
+Compare the output variations.
 
-Iterate and Adjust Prompts:
+Refine and Regenerate Videos:
 
-Evaluate the generated output and refine the prompt for improvements in motion, transitions, and detail.
+Modify prompts based on the output quality.
 
-# Example:
-Refined prompt: “A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.”
+Focus on improving motion consistency, lighting, and transitions.
 
-Generate Multiple Versions:
+Generate Multiple Versions for Comparison:
 
-Produce several videos using slightly varied prompts to observe differences in visual style, pacing, and motion.
+Use slight prompt variations to analyze how phrasing affects video results.
 
-Save and Compare Outputs:
+Save All Outputs:
 
-Save all generated video versions.
+Export or download generated videos for documentation.
 
-Compare them to analyze how changes in prompt phrasing affect the resulting video’s quality, coherence, and creativity.
+Analyze and Record Observations:
 
+Note how changes in prompt wording affect style, accuracy, and visual appeal.
+
+Stop the Experiment.
 
 # Result:
 The Prompt of the above task executed successfully
